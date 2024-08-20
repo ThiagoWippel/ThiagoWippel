@@ -30,7 +30,3 @@ Engenheiro Mecânico formado pela FAE e Pós-Graduando em Arquitetura de Softwar
 com uma trajetória diversificada em projetos de TI e na indústria. Possuo experiência em
 desenvolvimento de software, gerenciamento de banco de dados, planejamento e controle de
 produção (PCP), além de projetos 2D e 3D. 
-
-<img src="https://github-readme-stats.vercel.app/api?username=ThiagoWippel&show_icons=true&theme=github_dark" style="height: 1cm;">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ThiagoWippel&show_icons=true&theme=github_dark" style="height: 110px;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoWippel&layout=compact&langs_count=16&show_icons=true&theme=github_dark" style="height: 110px;">
