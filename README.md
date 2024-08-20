@@ -23,7 +23,7 @@ Tecnologias que utilizo:
 
 ##
 
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoWippel&show_icons=true&theme=github_dark)![Thiago's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoWippel&layout=compact&langs_count=16show_icons=true&theme=github_dark)
+![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoWippel&show_icons=true&theme=github_dark) ![Thiago's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoWippel&layout=compact&langs_count=16show_icons=true&theme=github_dark)
 
 
 Engenheiro Mecânico formado pela FAE e Pós-Graduando em Arquitetura de Software pela FIAP,
