@@ -15,7 +15,7 @@ I hold a postgraduate degree in **Software Architecture** from FIAP, focused on 
 - **42 São Paulo** — Software Engineering (2025 – 2027)
 - **FIAP** — Postgraduate in Software Architecture (2024 – 2025)
 - **FAE Centro Universitário** — B.Eng. in Mechanical Engineering (2022 – 2023)
-- **PUCPR** - B.Eng. in Mechanical Engineering (2017 – 2022)
+- **PUCPR** — B.Eng. in Mechanical Engineering (2017 – 2022)
 
 ## Tech Stack
 
@@ -39,5 +39,5 @@ I hold a postgraduate degree in **Software Architecture** from FIAP, focused on 
 
 | Project | Description |
 |---------|-------------|
-| [**Libft**](https://github.com/ThiagoWippel/42-Projects-Libft) | Custom C library with 40+ reimplemented functions |
+| [**Libft**](https://github.com/ThiagoWippel/42-Projects-Libft) | Custom C library with 40+ reimplemented functions covering string manipulation, memory management, and linked lists. First project of the 42 curriculum.|
 | **FDF** | 3D wireframe renderer using isometric projection |
