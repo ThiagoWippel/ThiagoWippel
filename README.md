@@ -1,6 +1,32 @@
-## Olá, eu sou o Thiago Wippel 😄
+# Hi, I'm Thiago Wippel Chaves
 
-Entre em contato:
+Developer and Systems Analyst based in São Paulo, Brazil. Mechanical Engineer turned software developer with a diverse background spanning IT projects, database management, and industrial production planning.
+
+Currently studying Software Engineering at **42 São Paulo** and building hands-on experience with low-level programming in C, backend development, Unix systems, and collaborative peer-to-peer learning.
+
+## About Me
+
+I started my career in industrial engineering, working with 2D/3D CAD design and production planning. I then transitioned into tech through a developer internship at **Vivo (Telefônica Brasil)**, where I worked on Java microservices with Spring Boot, MySQL database management, and process automation with Python. I also gained experience in IT project management during that period.
+
+I hold a postgraduate degree in **Software Architecture** from FIAP, focused on designing scalable, resilient, and high-performance backend systems.
+
+## Education
+
+- **42 São Paulo** — Software Engineering (2025 – 2027)
+- **FIAP** — Postgraduate in Software Architecture (2024 – 2025)
+- **FAE Centro Universitário** — B.Eng. in Mechanical Engineering (2022 – 2023)
+- **PUCPR** - B.Eng. in Mechanical Engineering (2017 – 2022)
+
+## Tech Stack
+
+**Languages:** C, Java, Python, SQL
+
+**Frameworks & Tools:** Spring Boot, Git, Make, Unix/Linux
+
+**Concepts:** Data Structures, Algorithms, Memory Management, Domain-Driven Design, Software Architecture, Lean Six Sigma (Yellow Belt)
+
+
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagowippelc/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagowippel.twc@gmail.com) 
@@ -8,25 +34,10 @@ Entre em contato:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/thiagowppl)
 
 ##
-Tecnologias que utilizo:
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-  <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
-          
-</div>
+## 42 Projects
 
-##
-
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoWippel&show_icons=true&theme=github_dark) ![Thiago's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoWippel&layout=compact&langs_count=16show_icons=true&theme=github_dark)
-
-
-Engenheiro Mecânico formado pela FAE e Pós-Graduando em Arquitetura de Software pela FIAP,
-com uma trajetória diversificada em projetos de TI e na indústria. Possuo experiência em
-desenvolvimento de software, gerenciamento de banco de dados, planejamento e controle de
-produção (PCP), além de projetos 2D e 3D. 
+| Project | Description |
+|---------|-------------|
+| [**Libft**](https://github.com/ThiagoWippel/42-Projects-Libft) | Custom C library with 40+ reimplemented functions |
+| **FDF** | 3D wireframe renderer using isometric projection |
