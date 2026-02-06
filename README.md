@@ -40,4 +40,8 @@ I hold a postgraduate degree in **Software Architecture** from FIAP, focused on 
 | Project | Description |
 |---------|-------------|
 | [**Libft**](https://github.com/ThiagoWippel/42-Projects-Libft) | Custom C library with 40+ reimplemented functions covering string manipulation, memory management, and linked lists. First project of the 42 curriculum.|
+| **ft_printf** | |
+| **get_next_line** | |
+| **pipex** | |
+| **push_swap** | |
 | **FDF** | 3D wireframe renderer using isometric projection |
