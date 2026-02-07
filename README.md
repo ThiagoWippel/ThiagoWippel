@@ -41,7 +41,10 @@ I hold a postgraduate degree in **Software Architecture** from FIAP, focused on 
 |---------|-------------|
 | [**Libft**](https://github.com/ThiagoWippel/42-Projects-Libft) | Custom C library with 40+ reimplemented functions covering string manipulation, memory management, and linked lists. First project of the 42 curriculum.|
 | [**get_next_line**](https://github.com/ThiagoWippel/42-Projects-Get_Next_Line) | Line-by-line file reader in C using static variables and buffer management. Handles multiple file descriptors simultaneously, works with any buffer size (1 to 10M+), and manages memory efficiently. |
-| **ft_printf** | |
-| **pipex** | |
-| **push_swap** | |
-| **FDF** | 3D wireframe renderer using isometric projection |
+| [**ft_printf**]() | |
+| [**pipex**]() | |
+| [**push_swap**]() | |
+| [**FDF**]() | 3D wireframe renderer using isometric projection |
+| [**Philosopher**]() | |
+| [**minishell**]() | |
+
